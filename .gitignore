@@ -19,7 +19,3 @@ yarn-error.log
 /.idea
 /.nova
 /.zed
-config.bat
-temp_auto_push.bat
-temp_interactive_push.bat
-branch_structure.json
